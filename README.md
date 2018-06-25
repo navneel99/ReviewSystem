@@ -23,8 +23,8 @@ $ . ReviewSystem/bin/activate
 $ pip install -r requirements.txt
 $ touch review_project/ratings/migrations/__init__.py
 ```
+After pip installs the requirements, a folder 'migrations' is created in the app 'ratings' and an empty file '__init__.py' is added. 
 
-After pip installs the requirements, a folder 'migrations' is created in the app 'ratings' and an empty file '__init__.py' is added.
 
 ## Running the app for the first time
 
